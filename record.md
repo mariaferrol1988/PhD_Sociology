@@ -60,7 +60,7 @@ P62: Personal Income <br/>
 Declared Knowledge about AI and robotics was overall high, however it is important to know that respondents have answered a question wich includes two terms that are synonimous but they actually don mean the same. 
 
 P16_En los últimos doce meses ¿ha oído, leído o visto algo relacionado con la inteligencia artificial y/o los robots
-|Answe            |(%)            |
+|Answe2            |(%)            |
 |-----------------|---------------|
 |Sí               |72.25%         |
 |No               |25.52%         |
@@ -113,6 +113,87 @@ c) Los robots son necesarios porque pueden hacer tanto trabajos muy duros como p
 |-----------------------|-----------------------|-----------------------|-----------------------|-------------|-------------|
 |33.69%                 |45.84%                 |11.45%                 |3.56%                  |0.04%        |5.34%        |
 
+#### Insights by variables regarding cross 
+
+A nivel general se observa una actitud más positiva entre los varones que entre las mujeres con respecto a la Inteligencia Artificial y a la robótica, esto puede estar relacionado con diversos factores entre los que destacan el mayor vínculo de las profesiones técnicas entre los hombres. 
+
+P16_En los últimos doce meses ¿ha oído, leído o visto algo relacionado con la inteligencia artificial y/o los robots?
+|Answe2           |Total (%)      |Women(%)       |Men(%)         |
+|-----------------|---------------|---------------|---------------|
+|Sí               |72.25%         |68.53%         |76.19%         |            
+|No               |25.52%         |28.37%         |22.50%         |
+|No recuerda      |1.08%          |2.78%          |1.33%          |
+|N.C.             |0.16%          |0.24%          |0.06%          |
+
+P17_En general respecto, a los robots y la inteligencia artificial tiene Ud. un punto de vista, muy positivo, positivo, negativo o muy negativo
+|Answer           |Total(%)       |Women(%)       |Men(%)         |   
+|-----------------|---------------|---------------|---------------|
+|Muy positivo     |7.06%          |4.53%          |9.74%          |
+|Positivo         |41.32%         |36.85%         |46.04%         |
+|Ni positivo ni negativo|1.08%    |24.57%         |20.83%         |
+|Negativo         |20.77%         |24.39%         |16.95%         |
+|Muy negativo     |3.98%          |4.49%          |3.44%          |
+|N.C.             |0.20%          |0.17%          |0.24%          |
+|N.S.             |3.92%          |4.93%          |2.85%          |
+
+P18_Piense en su actual o último empleo, ¿cree Ud. que las tareas que desarrolla/ba podrían ser realizadas por robots o por alguna otra (tecnología informáticas en los próximos 15 años?
+|Answer           |Total(%)       |Women(%)       |Men(%)         |
+|-----------------|---------------|---------------|---------------|
+|No               |37.38%         |36.08%         |38.76%         |
+|Sí, algunas      |33.09%         |30.50%         |35.82%         |
+|Sí, la mayor parte |14.14%       |12.23%         |16.17%         |
+|Sí, todas        | 5.29%         |5.83%          |4.72%          |
+|N.C.             | 0.07%         |0.04%          |0.09%          |
+|N.S.             | 1.94%         |2.52%          |1.33%          |
+|N.P. (No ha trabajado nunca)| 8.09%|12.72%       |3.18%          |
+
+P18A_¿Y las tareas domésticas que desarrolla en su hogar?
+|Answer           |Total (%)      |Women(%)       |Men(%)         |
+|-----------------|---------------|---------------|---------------|
+|No               |15.76%         |16.44%         |15.04%         |
+|Sí, algunas      |51.20%         |51.16%         |51.24%         |
+|Sí, la mayor parte |23.79%       |22.98%         |24.64%         |
+|Sí, todas        |6.61%          |6.73%          |6.48%          |
+|N.C.             |0.12%          |0.03%          |0.21%          |
+|N.S.             |2.53%          |2.59%          |2.46%          |
+
+------------------
+                          PESO       PESO
+P19_1                                    
+Bastante de acuerdo  38.209649  36.677121
+Muy de acuerdo       39.357830  38.067330
+N.C.                  0.089982   0.000000
+N.S.                  5.839858   3.732507
+Nada de acuerdo       3.542078   5.702578
+Poco de acuerdo      12.890906  15.897291
+------------------
+                          PESO       PESO
+P19_2                                    
+Bastante de acuerdo  46.123397  50.630646
+Muy de acuerdo       16.056936  22.053819
+N.C.                  0.188779   0.236129
+N.S.                  7.529223   4.294191
+Nada de acuerdo       6.450092   5.175359
+Poco de acuerdo      23.581874  17.686684
+------------------
+                          PESO       PESO
+P19_3                                    
+Bastante de acuerdo  46.437145  45.223988
+Muy de acuerdo       29.702004  37.904700
+N.C.                  0.175956   0.043211
+N.S.                  7.297626   3.270268
+Nada de acuerdo       4.081689   3.012957
+Poco de acuerdo      12.235882  10.621704
+------------------
+
+
+#### Insights by gender
+
+#### Insights by age
+
+#### Insights by education level
+
+#### Insights by Socioeconomic Index
 
 ## INE enterprises 
 
