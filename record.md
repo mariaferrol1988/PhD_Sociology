@@ -57,6 +57,17 @@ P62: Personal Income <br/>
 
 ### General Insights
 
+Declared Knowledge about AI and robotics was overall high, however it is important to know that respondents have answered a question wich includes two terms that are synonimous but they actually don mean the same. 
+
+|P16              |               |
+|-----------------|---------------|
+|Sí               |72.25%         |
+|No               |25.52%         |
+|No recuerda      |1.08%          |
+|N.C.             |0.16%          |
+
+At general level we can say that in 2018 the general attitudes towards AI and Robotics among Spaniards was overall positive. 
+
 ## INE enterprises 
 
 ## INE families 
