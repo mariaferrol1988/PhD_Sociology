@@ -59,7 +59,8 @@ P62: Personal Income <br/>
 
 Declared Knowledge about AI and robotics was overall high, however it is important to know that respondents have answered a question wich includes two terms that are synonimous but they actually don mean the same. 
 
-|P16              |               |
+P16_En los últimos doce meses ¿ha oído, leído o visto algo relacionado con la inteligencia artificial y/o los robots
+|Respuesta        |(%)            |
 |-----------------|---------------|
 |Sí               |72.25%         |
 |No               |25.52%         |
