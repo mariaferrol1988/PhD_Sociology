@@ -82,7 +82,7 @@ P17_En general respecto, a los robots y la inteligencia artificial tiene Ud. un 
 
 La perspectiva en 2018 de cara a la sustitución de la fuerza de trabajo por tecnologías basadas en la robótica y la inteligencia artificial era optimista, si bien, existe un porcentaje relevante de personas que considera que existirá un impacto en ciertas de las tareas que se realizan, no obstante la expectativa es una reducción en el ámbito del hogar
 
-P18_Piense en su actual o último empleo, ¿cree Ud. que las tareas que desarrolla/ba podrían ser realizadas por robots o por alguna otra (tecnología informáticas en los próximos 15 años? 
+P18_Piense en su actual o último empleo, ¿cree Ud. que las tareas que desarrolla/ba podrían ser realizadas por robots o por alguna otra (tecnología informáticas en los próximos 15 años? <br/>
 P18A_¿Y las tareas domésticas que desarrolla en su hogar?
 |Answer           |Trabajo (%)    |Hogar (%)
 |-----------------|---------------|---------------|
@@ -94,6 +94,24 @@ P18A_¿Y las tareas domésticas que desarrolla en su hogar?
 |N.S.             | 1.94%         |2.53%          |
 |N.P. (No ha trabajado nunca)| 8.09%| N/A         |
 
+El optimismo presente con respecto al mantenimento del empleo contrasta con una visión polarizada entre la utilidad de los robots y el posible impacto que puedan tener estos en la sociedad en el futuro. 
+
+P19_Dígame usted en qué medida está Ud. muy de acuerdo, bastante de acuerdo, poco o nada de acuerdo con las siguientes frases
+
+a) Debido al uso de los robots y de la Inteligencia Artificial, desaparecerán más trabajos de los que se puedan crear nuevos
+|Muy de acuerdo(%)      |Bastante de acuerdo(%) |Poco de acuerdo(%)     |Nada de acuerdo(%)     |N.C.         |N.S.         |  
+|-----------------------|-----------------------|-----------------------|-----------------------|-------------|-------------|
+|38.73%                 |38.73%                 |14.35%                 |4.59%                  |0.04%        |4.82%        |
+
+b) Los robots y la inteligencia artificial son buenos para la sociedad porque ayudan a las personas a hacer su trabajo o a realizar sus tareas diarias en casa
+|Muy de acuerdo(%)      |Bastante de acuerdo(%) |Poco de acuerdo(%)     |Nada de acuerdo(%)     |N.C.         |N.S.         |  
+|-----------------------|-----------------------|-----------------------|-----------------------|-------------|-------------|
+|18.97%                 |48.31%                 |20.71%                 |5.83%                  |0.21%        |5.95%        |
+
+c) Los robots son necesarios porque pueden hacer tanto trabajos muy duros como peligrosos para las personas
+|Muy de acuerdo(%)      |Bastante de acuerdo(%) |Poco de acuerdo(%)     |Nada de acuerdo(%)     |N.C.         |N.S.         |  
+|-----------------------|-----------------------|-----------------------|-----------------------|-------------|-------------|
+|33.69%                 |45.84%                 |11.45%                 |3.56%                  |0.04%        |5.34%        |
 
 
 ## INE enterprises 
