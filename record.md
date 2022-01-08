@@ -60,7 +60,7 @@ P62: Personal Income <br/>
 Declared Knowledge about AI and robotics was overall high, however it is important to know that respondents have answered a question wich includes two terms that are synonimous but they actually don mean the same. 
 
 P16_En los últimos doce meses ¿ha oído, leído o visto algo relacionado con la inteligencia artificial y/o los robots
-|Respuesta        |(%)            |
+|Answe            |(%)            |
 |-----------------|---------------|
 |Sí               |72.25%         |
 |No               |25.52%         |
@@ -68,6 +68,19 @@ P16_En los últimos doce meses ¿ha oído, leído o visto algo relacionado con l
 |N.C.             |0.16%          |
 
 At general level we can say that in 2018 the general attitudes towards AI and Robotics among Spaniards was overall positive. 
+
+P17_En general respecto, a los robots y la inteligencia artificial tiene Ud. un punto de vista, muy positivo, positivo, negativo o muy negativo
+|Answer           |(%)            |
+|-----------------|---------------|
+|Muy positivo     |7.06%          |
+|Positivo         |41.32%         |
+|Ni positivo ni negativo|1.08%    |
+|Negativo         |20.77%         |
+|Muy negativo     |3.98%          |
+|N.C.             |0.20%          |
+|N.S.             |3.92%          |
+
+
 
 ## INE enterprises 
 
