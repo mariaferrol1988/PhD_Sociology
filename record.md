@@ -80,6 +80,20 @@ P17_En general respecto, a los robots y la inteligencia artificial tiene Ud. un 
 |N.C.             |0.20%          |
 |N.S.             |3.92%          |
 
+La perspectiva en 2018 de cara a la sustitución de la fuerza de trabajo por tecnologías basadas en la robótica y la inteligencia artificial era optimista, si bien, existe un porcentaje relevante de personas que considera que existirá un impacto en ciertas de las tareas que se realizan, no obstante la expectativa es una reducción en el ámbito del hogar
+
+P18_Piense en su actual o último empleo, ¿cree Ud. que las tareas que desarrolla/ba podrían ser realizadas por robots o por alguna otra (tecnología informáticas en los próximos 15 años? 
+P18A_¿Y las tareas domésticas que desarrolla en su hogar?
+|Answer           |Trabajo (%)    |Hogar (%)
+|-----------------|---------------|---------------|
+|No               |37.38%         |15.76%         |
+|Sí, algunas      |33.09%         |51.20%         |
+|Sí, la mayor parte |14.14%       |23.79%         |
+|Sí, todas        | 5.29%         |6.61%          |
+|N.C.             | 0.07%         |0.12%          |
+|N.S.             | 1.94%         |2.53%          |
+|N.P. (No ha trabajado nunca)| 8.09%| N/A         |
+
 
 
 ## INE enterprises 
