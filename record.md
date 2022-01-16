@@ -113,12 +113,14 @@ c) Los robots son necesarios porque pueden hacer tanto trabajos muy duros como p
 |-----------------------|-----------------------|-----------------------|-----------------------|-------------|-------------|
 |33.69%                 |45.84%                 |11.45%                 |3.56%                  |0.04%        |5.34%        |
 
-#### Insights by variables regarding cross 
+#### Insights 
+
+#### Insights by gender
 
 A nivel general se observa una actitud más positiva entre los varones que entre las mujeres con respecto a la Inteligencia Artificial y a la robótica, esto puede estar relacionado con diversos factores entre los que destacan el mayor vínculo de las profesiones técnicas entre los hombres. 
 
 P16_En los últimos doce meses ¿ha oído, leído o visto algo relacionado con la inteligencia artificial y/o los robots?
-|Answe2           |Total (%)      |Women(%)       |Men(%)         |
+|Answer           |Total (%)      |Women(%)       |Men(%)         |
 |-----------------|---------------|---------------|---------------|
 |Sí               |72.25%         |68.53%         |76.19%         |            
 |No               |25.52%         |28.37%         |22.50%         |
@@ -158,38 +160,268 @@ P18A_¿Y las tareas domésticas que desarrolla en su hogar?
 |N.S.             |2.53%          |2.59%          |2.46%          |
 
 ------------------
-                          PESO       PESO
-P19_1                                    
-Bastante de acuerdo  38.209649  36.677121
-Muy de acuerdo       39.357830  38.067330
-N.C.                  0.089982   0.000000
-N.S.                  5.839858   3.732507
-Nada de acuerdo       3.542078   5.702578
-Poco de acuerdo      12.890906  15.897291
-------------------
-                          PESO       PESO
-P19_2                                    
-Bastante de acuerdo  46.123397  50.630646
-Muy de acuerdo       16.056936  22.053819
-N.C.                  0.188779   0.236129
-N.S.                  7.529223   4.294191
-Nada de acuerdo       6.450092   5.175359
-Poco de acuerdo      23.581874  17.686684
-------------------
-                          PESO       PESO
-P19_3                                    
-Bastante de acuerdo  46.437145  45.223988
-Muy de acuerdo       29.702004  37.904700
-N.C.                  0.175956   0.043211
-N.S.                  7.297626   3.270268
-Nada de acuerdo       4.081689   3.012957
-Poco de acuerdo      12.235882  10.621704
-------------------
+
+P19_Dígame usted en qué medida está Ud. muy de acuerdo, bastante de acuerdo, poco o nada de acuerdo con las siguientes frases
+
+a) Debido al uso de los robots y de la Inteligencia Artificial, desaparecerán más trabajos de los que se puedan crear nuevos
+|Answer                 |Muy de acuerdo(%)      |Bastante de acuerdo(%) |Poco de acuerdo(%)     |Nada de acuerdo(%)     |N.C.         |N.S.         |  
+|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-------------|-------------|
+|Total(%)               |38.73%                 |38.73%                 |14.35%                 |4.59%                  |0.04%        |4.82%        |
+|Women(%)               |39.35%                 |38.20%                 |12.89%                 |3.54%                  |0.08%        |5.83%        |
+|Men(%)                 |38.06%                 |36.67%                 |15.89%                 |5.70%                  |0.00%        |3.73%        |
 
 
-#### Insights by gender
+b) Los robots y la inteligencia artificial son buenos para la sociedad porque ayudan a las personas a hacer su trabajo o a realizar sus tareas diarias en casa
+|Answer                 |Muy de acuerdo(%)      |Bastante de acuerdo(%) |Poco de acuerdo(%)     |Nada de acuerdo(%)     |N.C.         |N.S.         |  
+|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-------------|-------------|
+|Total(%)               |18.97%                 |48.31%                 |20.71%                 |5.83%                  |0.21%        |5.95%        |
+|Women(%)               |16.05%                 |46.12%                 |23.58%                 |6.45%                  |0.18%        |7.52%        |
+|Men(%)                 |22.05%                 |50.63%                 |17.68%                 |5.17%                  |0.23%        |4.29%        |
+
+
+c) Los robots son necesarios porque pueden hacer tanto trabajos muy duros como peligrosos para las personas
+|Answer                 ||Muy de acuerdo(%)     |Bastante de acuerdo(%) |Poco de acuerdo(%)     |Nada de acuerdo(%)     |N.C.         |N.S.         |  
+|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-------------|-------------|
+|Total(%)               |33.69%                 |45.84%                 |11.45%                 |3.56%                  |0.04%        |5.34%        |
+|Women(%)               |29.70%                 |46.43%                 |12.23%                 |4.08%                  |0.17%        |7.29%        |
+|Men(%)                 |37.90%                 |45.22%                 |10.62%                 |3.01%                  |0.04%        |3.27%        |
 
 #### Insights by age
+
+A nivel general se observa una actitud más positiva entre los varones que entre las mujeres con respecto a la Inteligencia Artificial y a la robótica, esto puede estar relacionado con diversos factores entre los que destacan el mayor vínculo de las profesiones técnicas entre los hombres. 
+
+
+                                   45-54 años  34-44 años  65-74 años  \
+P17                                                                     
+(NO LEER) Ni positivo ni negativo   21.132713   21.897233   27.614571   
+Muy negativo                         3.381234    2.766798    4.347826   
+Muy positivo                         8.875740    8.458498    4.112808   
+N.C.                                 0.338123    0.158103         NaN   
+N.S.                                 3.043111    2.845850    6.933020   
+Negativo                            19.357566   18.260870   26.321974   
+Positivo                            43.871513   45.612648   30.669800   
+
+                                   75-84 años   <25 años  55-64 años  \
+P17                                                                    
+(NO LEER) Ni positivo ni negativo   21.703854  20.750988   21.608040   
+Muy negativo                         6.896552   3.359684    3.819095   
+Muy positivo                         1.825558   9.881423    7.437186   
+N.C.                                 0.405680   0.197628    0.100503   
+N.S.                                13.590264   1.976285    3.819095   
+Negativo                            29.817444  16.205534   21.608040   
+Positivo                            25.760649  47.628458   41.608040   
+
+                                   25-34 años  >84 años  
+P17                                                      
+(NO LEER) Ni positivo ni negativo   23.146067      25.6  
+Muy negativo                         2.584270       9.6  
+Muy positivo                         7.977528       1.6  
+N.C.                                      NaN       NaN  
+N.S.                                 1.910112      22.4  
+Negativo                            17.977528      16.8  
+Positivo                            46.404494      24.0  
+
+                              45-54 años  34-44 años  65-74 años  75-84 años  \
+P18                                                                            
+N.C.                            0.084531         NaN    0.235018         NaN   
+N.P. (No ha trabajado nunca)    2.451395    1.343874   11.045828   18.864097   
+N.S.                            1.183432    1.027668    2.820212    7.099391   
+No                             41.504649   41.581028   37.015276   37.931034   
+Sí, algunas                    34.826712   35.335968   32.549941   23.326572   
+Sí, la mayor parte             14.877430   14.545455   11.633373    9.127789   
+Sí, todas                       5.071851    6.166008    4.700353    3.651116   
+
+                               <25 años  55-64 años  25-34 años  >84 años  
+P18                                                                        
+N.C.                                NaN    0.100503         NaN       NaN  
+N.P. (No ha trabajado nunca)  34.584980    5.125628    4.157303      22.4  
+N.S.                           0.395257    1.005025    1.011236      14.4  
+No                            23.517787   41.306533   39.887640      35.2  
+Sí, algunas                   24.110672   33.266332   33.932584      16.0  
+Sí, la mayor parte            10.474308   15.075377   14.719101       9.6  
+Sí, todas                      6.916996    4.120603    6.292135       2.4  
+                    45-54 años  34-44 años  65-74 años  75-84 años   <25 años  \
+P18A                                                                            
+N.S.                  1.690617    0.948617    5.522914    8.519270   3.162055   
+No                   15.046492   13.201581   20.094007   25.354970   7.312253   
+Sí, algunas          53.254438   52.964427   52.526439   46.450304  45.256917   
+Sí, la mayor parte   23.753170   25.533597   18.918919   16.227181  29.841897   
+Sí, todas             6.255283    7.272727    2.820212    3.245436  14.229249   
+N.C.                       NaN    0.079051    0.117509    0.202840   0.197628   
+
+                    55-64 años  25-34 años  >84 años  
+P18A                                                  
+N.S.                  2.211055    1.910112      17.6  
+No                   18.793970   11.348315      23.2  
+Sí, algunas          53.768844   49.550562      40.8  
+Sí, la mayor parte   20.804020   28.314607      15.2  
+Sí, todas             4.422111    8.876404       2.4  
+N.C.                       NaN         NaN       0.8  
+                     45-54 años  34-44 años  65-74 años  75-84 años  \
+P19_1                                                                 
+Bastante de acuerdo   35.418428   37.944664   36.662750   35.699797   
+Muy de acuerdo        40.152156   34.545455   42.303173   40.770791   
+N.S.                   3.381234    3.636364    9.400705   12.373225   
+Nada de acuerdo        5.832629    5.296443    2.115159    2.028398   
+Poco de acuerdo       15.215554   18.339921    9.518214    9.127789   
+N.C.                        NaN    0.237154         NaN         NaN   
+
+                      <25 años  55-64 años  25-34 años  >84 años  
+P19_1                                                             
+Bastante de acuerdo  35.375494   35.979899   37.752809      39.2  
+Muy de acuerdo       37.549407   40.402010   37.191011      32.0  
+N.S.                  6.126482    4.120603    3.146067      24.0  
+Nada de acuerdo       4.347826    6.030151    5.393258       NaN  
+Poco de acuerdo      16.600791   13.467337   16.516854       4.8  
+N.C.                       NaN         NaN         NaN       NaN  
+                     45-54 años  34-44 años  65-74 años  75-84 años  \
+P19_2                                                                 
+Bastante de acuerdo   50.803043   50.355731   44.535840   41.176471   
+Muy de acuerdo        18.174134   20.632411   15.393655   11.156187   
+N.C.                   0.084531    0.395257         NaN    0.202840   
+N.S.                   3.888419    4.584980   11.398355   17.647059   
+Nada de acuerdo        5.240913    5.849802    5.405405    7.302231   
+Poco de acuerdo       21.808960   18.181818   23.266745   22.515213   
+
+                      <25 años  55-64 años  25-34 años  >84 años  
+P19_2                                                             
+Bastante de acuerdo  47.430830   49.045226   52.134831      36.8  
+Muy de acuerdo       23.715415   17.688442   20.898876       7.2  
+N.C.                       NaN    0.402010    0.112360       NaN  
+N.S.                  4.940711    4.422111    2.808989      28.0  
+Nada de acuerdo       5.533597    6.934673    4.719101       4.0  
+Poco de acuerdo      18.379447   21.507538   19.325843      24.0  
+                     45-54 años  34-44 años  65-74 años  75-84 años  \
+P19_3                                                                 
+Bastante de acuerdo   47.675402   45.928854   45.475911   43.813387   
+Muy de acuerdo        33.727811   35.573123   28.319624   21.703854   
+N.C.                   0.084531    0.237154    0.117509         NaN   
+N.S.                   3.212172    3.636364    9.635723   18.052738   
+Nada de acuerdo        3.803888    3.478261    3.055229    5.476673   
+Poco de acuerdo       11.496196   11.146245   13.396005   10.953347   
+
+                      <25 años  55-64 años  25-34 años  >84 años  
+P19_3                                                             
+Bastante de acuerdo  44.268775   48.442211   46.629213      38.4  
+Muy de acuerdo       37.549407   32.361809   35.168539      13.6  
+N.C.                       NaN    0.201005         NaN       NaN  
+N.S.                  3.754941    4.522613    2.359551      27.2  
+Nada de acuerdo       3.754941    3.517588    4.269663       4.0  
+Poco de acuerdo      10.671937   10.954774   11.573034      16.8  
+
+P16_En los últimos doce meses ¿ha oído, leído o visto algo relacionado con la inteligencia artificial y/o los robots?
+
+|Answer           |Total (%)      |<25 años(%)    |25-34 años(%)  |35-44 años(%)  |45-54 años(%)  |
+|-----------------|---------------|---------------|---------------|---------------|---------------|
+|Sí               |72.25%         |82.01%         |78.42%         |77.07%         |76.75%         |
+|No               |25.52%         |16.60%         |20.00%         |21.10%         |21.55%         |
+|No recuerda      |1.08%          |1.38%          |1.34%          |1.73%          |1.60%          |
+|N.C.             |0.16%          |               |0.22%          |0.07%          |0.08%          |
+
+|Answer           |Total (%)      |55-64 años(%)  |65-74 años(%)  |75-84 años(%)  |>84 años(%)    |
+|-----------------|---------------|---------------|---------------|---------------|---------------|
+|Sí               |72.25%         |73.86%         |62.39%         |51.92%         |42.4%          |
+|No               |25.52%         |24.42%         |34.78%         |42.59%         |48.8%          |
+|No recuerda      |1.08%          |1.50%          |2.70%          |5.07%          |8.8%           |
+|N.C.             |0.16%          |0.20%          |0.11%          |0.40%          |               |
+
+P17_En general respecto, a los robots y la inteligencia artificial tiene Ud. un punto de vista, muy positivo, positivo, negativo o muy negativo
+|Answer           |Total(%)       |<25 años(%)    |25-34 años(%)  |35-44 años(%)  |45-54 años(%)  |
+|-----------------|---------------|---------------|---------------|---------------|---------------|
+|Muy positivo     |7.06%          |9.88%          |9.74%          |8.45%          |8.87%          |
+|Positivo         |41.32%         |47.6%          |46.04%         |45.61%         |43.87%         |
+|Ni positivo ni negativo|1.08%    |20.75%         |20.83%         |21.89%         |21.13%         |
+|Negativo         |20.77%         |16.20%         |16.95%         |4.53%          |9.74%          |
+|Muy negativo     |3.98%          |3.35%          |3.44%          |4.53%          |9.74%          |
+|N.C.             |0.20%          |0.19%          |0.24%          |4.53%          |9.74%          |
+|N.S.             |3.92%          |1.97%          |2.85%          |4.53%          |9.74%          |
+
+
+|Answer           |Total(%)       |55-64 años(%)  |65-74 años(%)  |75-84 años(%)  |>84 años(%)    |
+|-----------------|---------------|---------------|---------------|---------------|---------------|
+|Muy positivo     |7.06%          |7.43%          |4.11%          |1.82%          |9.74%          |
+|Positivo         |41.32%         |41.60%         |30.66%         |25.76%         |9.74%          |
+|Ni positivo ni negativo|1.08%    |21.60%         |27.61%         |21.70%         |9.74%          |
+|Negativo         |20.77%         |21.60%         |16.95%         |29.81%         |9.74%          |
+|Muy negativo     |3.98%          |3.81%          |3.44%          |6.89%          |9.74%          |
+|N.C.             |0.20%          |0.10%          |0.24%          |0.40%          |9.74%          |
+|N.S.             |3.92%          |3.81%          |2.85%          |13.59%         |9.74%          |
+ 
+
+                                   45-54 años  34-44 años  65-74 años  \
+P17                                                                       
+Negativo                            19.357566   18.260870   26.321974   
+Muy negativo                         3.381234    2.766798    4.347826   
+N.C.                                 0.338123    0.158103         NaN   
+N.S.                                 3.043111    2.845850    6.933020   
+
+
+
+                                   75-84 años   <25 años  55-64 años  \
+P17                                                                    
+(NO LEER) Ni positivo ni negativo   21.703854  20.750988   21.608040   
+Muy negativo                         6.896552   3.359684    3.819095   
+Muy positivo                         1.825558   9.881423    7.437186   
+N.C.                                 0.405680   0.197628    0.100503   
+N.S.                                13.590264   1.976285    3.819095   
+Negativo                            29.817444  16.205534   21.608040   
+Positivo                            25.760649  47.628458   41.608040   
+
+                                   25-34 años  >84 años  
+P17                                                      
+(NO LEER) Ni positivo ni negativo   23.146067      25.6  
+Muy negativo                         2.584270       9.6  
+Muy positivo                         7.977528       1.6  
+N.C.                                      NaN       NaN  
+N.S.                                 1.910112      22.4  
+Negativo                            17.977528      16.8  
+Positivo                            46.404494      24.0  
+
+P18_Piense en su actual o último empleo, ¿cree Ud. que las tareas que desarrolla/ba podrían ser realizadas por robots o por alguna otra (tecnología informáticas en los próximos 15 años?
+|Answer           |Total(%)       |Women(%)       |Men(%)         |
+|-----------------|---------------|---------------|---------------|
+|No               |37.38%         |36.08%         |38.76%         |
+|Sí, algunas      |33.09%         |30.50%         |35.82%         |
+|Sí, la mayor parte |14.14%       |12.23%         |16.17%         |
+|Sí, todas        | 5.29%         |5.83%          |4.72%          |
+|N.C.             | 0.07%         |0.04%          |0.09%          |
+|N.S.             | 1.94%         |2.52%          |1.33%          |
+|N.P. (No ha trabajado nunca)| 8.09%|12.72%       |3.18%          |
+
+P18A_¿Y las tareas domésticas que desarrolla en su hogar?
+|Answer           |Total (%)      |Women(%)       |Men(%)         |
+|-----------------|---------------|---------------|---------------|
+|No               |15.76%         |16.44%         |15.04%         |
+|Sí, algunas      |51.20%         |51.16%         |51.24%         |
+|Sí, la mayor parte |23.79%       |22.98%         |24.64%         |
+|Sí, todas        |6.61%          |6.73%          |6.48%          |
+|N.C.             |0.12%          |0.03%          |0.21%          |
+|N.S.             |2.53%          |2.59%          |2.46%          |
+
+P19_Dígame usted en qué medida está Ud. muy de acuerdo, bastante de acuerdo, poco o nada de acuerdo con las siguientes frases
+
+a) Debido al uso de los robots y de la Inteligencia Artificial, desaparecerán más trabajos de los que se puedan crear nuevos
+|Answer                 |Muy de acuerdo(%)      |Bastante de acuerdo(%) |Poco de acuerdo(%)     |Nada de acuerdo(%)     |N.C.         |N.S.         |  
+|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-------------|-------------|
+|Total(%)               |38.73%                 |38.73%                 |14.35%                 |4.59%                  |0.04%        |4.82%        |
+|Women(%)               |39.35%                 |38.20%                 |12.89%                 |3.54%                  |0.08%        |5.83%        |
+|Men(%)                 |38.06%                 |36.67%                 |15.89%                 |5.70%                  |0.00%        |3.73%        |
+
+
+b) Los robots y la inteligencia artificial son buenos para la sociedad porque ayudan a las personas a hacer su trabajo o a realizar sus tareas diarias en casa
+|Answer                 |Muy de acuerdo(%)      |Bastante de acuerdo(%) |Poco de acuerdo(%)     |Nada de acuerdo(%)     |N.C.         |N.S.         |  
+|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-------------|-------------|
+|Total(%)               |18.97%                 |48.31%                 |20.71%                 |5.83%                  |0.21%        |5.95%        |
+|Women(%)               |16.05%                 |46.12%                 |23.58%                 |6.45%                  |0.18%        |7.52%        |
+|Men(%)                 |22.05%                 |50.63%                 |17.68%                 |5.17%                  |0.23%        |4.29%        |
+
+
+c) Los robots son necesarios porque pueden hacer tanto trabajos muy duros como peligrosos para las personas
+|Answer                 ||Muy de acuerdo(%)     |Bastante de acuerdo(%) |Poco de acuerdo(%)     |Nada de acuerdo(%)     |N.C.         |N.S.         |  
+|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-------------|-------------|
+|Total(%)               |33.69%                 |45.84%                 |11.45%                 |3.56%                  |0.04%        |5.34%        |
+|Women(%)               |29.70%                 |46.43%                 |12.23%                 |4.08%                  |0.17%        |7.29%        |
+|Men(%)                 |37.90%                 |45.22%                 |10.62%                 |3.01%                  |0.04%        |3.27%        |
 
 #### Insights by education level
 
