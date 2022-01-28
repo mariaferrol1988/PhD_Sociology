@@ -180,11 +180,12 @@ b) Los robots y la inteligencia artificial son buenos para la sociedad porque ay
 
 
 c) Los robots son necesarios porque pueden hacer tanto trabajos muy duros como peligrosos para las personas
-|Answer                 ||Muy de acuerdo(%)     |Bastante de acuerdo(%) |Poco de acuerdo(%)     |Nada de acuerdo(%)     |N.C.         |N.S.         |  
+|Answer                 |Muy de acuerdo(%)     |Bastante de acuerdo(%) |Poco de acuerdo(%)     |Nada de acuerdo(%)     |N.C.         |N.S.         |  
 |-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-------------|-------------|
 |Total(%)               |33.69%                 |45.84%                 |11.45%                 |3.56%                  |0.04%        |5.34%        |
 |Women(%)               |29.70%                 |46.43%                 |12.23%                 |4.08%                  |0.17%        |7.29%        |
 |Men(%)                 |37.90%                 |45.22%                 |10.62%                 |3.01%                  |0.04%        |3.27%        |
+
 
 #### Insights by age
 
